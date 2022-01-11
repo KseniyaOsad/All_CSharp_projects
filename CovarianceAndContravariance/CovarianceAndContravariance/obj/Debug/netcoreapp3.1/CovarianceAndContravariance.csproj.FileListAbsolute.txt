@@ -1,0 +1,13 @@
+C:\Users\theks\Desktop\C\All_CSharp_projects\CovarianceAndContravariance\CovarianceAndContravariance\bin\Debug\netcoreapp3.1\CovarianceAndContravariance.exe
+C:\Users\theks\Desktop\C\All_CSharp_projects\CovarianceAndContravariance\CovarianceAndContravariance\bin\Debug\netcoreapp3.1\CovarianceAndContravariance.deps.json
+C:\Users\theks\Desktop\C\All_CSharp_projects\CovarianceAndContravariance\CovarianceAndContravariance\bin\Debug\netcoreapp3.1\CovarianceAndContravariance.runtimeconfig.json
+C:\Users\theks\Desktop\C\All_CSharp_projects\CovarianceAndContravariance\CovarianceAndContravariance\bin\Debug\netcoreapp3.1\CovarianceAndContravariance.runtimeconfig.dev.json
+C:\Users\theks\Desktop\C\All_CSharp_projects\CovarianceAndContravariance\CovarianceAndContravariance\bin\Debug\netcoreapp3.1\CovarianceAndContravariance.dll
+C:\Users\theks\Desktop\C\All_CSharp_projects\CovarianceAndContravariance\CovarianceAndContravariance\bin\Debug\netcoreapp3.1\CovarianceAndContravariance.pdb
+C:\Users\theks\Desktop\C\All_CSharp_projects\CovarianceAndContravariance\CovarianceAndContravariance\obj\Debug\netcoreapp3.1\CovarianceAndContravariance.csprojAssemblyReference.cache
+C:\Users\theks\Desktop\C\All_CSharp_projects\CovarianceAndContravariance\CovarianceAndContravariance\obj\Debug\netcoreapp3.1\CovarianceAndContravariance.AssemblyInfoInputs.cache
+C:\Users\theks\Desktop\C\All_CSharp_projects\CovarianceAndContravariance\CovarianceAndContravariance\obj\Debug\netcoreapp3.1\CovarianceAndContravariance.AssemblyInfo.cs
+C:\Users\theks\Desktop\C\All_CSharp_projects\CovarianceAndContravariance\CovarianceAndContravariance\obj\Debug\netcoreapp3.1\CovarianceAndContravariance.csproj.CoreCompileInputs.cache
+C:\Users\theks\Desktop\C\All_CSharp_projects\CovarianceAndContravariance\CovarianceAndContravariance\obj\Debug\netcoreapp3.1\CovarianceAndContravariance.dll
+C:\Users\theks\Desktop\C\All_CSharp_projects\CovarianceAndContravariance\CovarianceAndContravariance\obj\Debug\netcoreapp3.1\CovarianceAndContravariance.pdb
+C:\Users\theks\Desktop\C\All_CSharp_projects\CovarianceAndContravariance\CovarianceAndContravariance\obj\Debug\netcoreapp3.1\CovarianceAndContravariance.genruntimeconfig.cache

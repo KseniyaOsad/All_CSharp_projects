@@ -1,0 +1,12 @@
+C:\Users\theks\Desktop\C\All_CSharp_projects\CustomCollections\CustomCollections\bin\Debug\netcoreapp3.1\CustomCollections.exe
+C:\Users\theks\Desktop\C\All_CSharp_projects\CustomCollections\CustomCollections\bin\Debug\netcoreapp3.1\CustomCollections.deps.json
+C:\Users\theks\Desktop\C\All_CSharp_projects\CustomCollections\CustomCollections\bin\Debug\netcoreapp3.1\CustomCollections.runtimeconfig.json
+C:\Users\theks\Desktop\C\All_CSharp_projects\CustomCollections\CustomCollections\bin\Debug\netcoreapp3.1\CustomCollections.runtimeconfig.dev.json
+C:\Users\theks\Desktop\C\All_CSharp_projects\CustomCollections\CustomCollections\bin\Debug\netcoreapp3.1\CustomCollections.dll
+C:\Users\theks\Desktop\C\All_CSharp_projects\CustomCollections\CustomCollections\bin\Debug\netcoreapp3.1\CustomCollections.pdb
+C:\Users\theks\Desktop\C\All_CSharp_projects\CustomCollections\CustomCollections\obj\Debug\netcoreapp3.1\CustomCollections.AssemblyInfoInputs.cache
+C:\Users\theks\Desktop\C\All_CSharp_projects\CustomCollections\CustomCollections\obj\Debug\netcoreapp3.1\CustomCollections.AssemblyInfo.cs
+C:\Users\theks\Desktop\C\All_CSharp_projects\CustomCollections\CustomCollections\obj\Debug\netcoreapp3.1\CustomCollections.csproj.CoreCompileInputs.cache
+C:\Users\theks\Desktop\C\All_CSharp_projects\CustomCollections\CustomCollections\obj\Debug\netcoreapp3.1\CustomCollections.dll
+C:\Users\theks\Desktop\C\All_CSharp_projects\CustomCollections\CustomCollections\obj\Debug\netcoreapp3.1\CustomCollections.pdb
+C:\Users\theks\Desktop\C\All_CSharp_projects\CustomCollections\CustomCollections\obj\Debug\netcoreapp3.1\CustomCollections.genruntimeconfig.cache

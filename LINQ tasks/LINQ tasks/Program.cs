@@ -91,22 +91,27 @@ namespace LINQ_tasks
             Console.WriteLine(task7Result);
 
             // TASK 8:
-            // calculate the sum of fibonacci numbers up to a certain limit
+            // fibonacci numbers 
             Console.WriteLine("\nTask 8");
-            int end = 55;
-            List<int> Fibonacci = new List<int>() { 0, 1 };
-            int prev = 0;
-            int curr = 1;
-            while (curr < end)
-            {
-                int sum = curr + prev;
-                Fibonacci.Add(sum);
-                prev = curr;
-                curr = sum;
-            }
-            int task8Result = Fibonacci.Aggregate((x, agr) => x + agr);
-            Fibonacci.ForEach(i => Console.Write($"{i}, "));
+            int n = 10;
+
+            int task8Result = Enumerable.Range(1, n)
+                                   .Skip(2)
+                                   .Aggregate(new { Current = 1, Prev = 1 },
+                                              (x, index) => new { Current = x.Prev + x.Current, Prev = x.Current })
+                                   .Current;
+
             Console.WriteLine("\n"+task8Result);
+
+            // TASK 9:
+            // custom where
+            List<string> stringList = new List<string>() { "hello", "hi", "Ops.."};
+            List<string> newStringList = stringList.MyWhere(x => x.Contains("h")).ToList();
+            newStringList.ForEach(i => Console.Write($"{i}, "));
+
+            List<int> intList = new List<int>() { 1, 23, 5 };
+            List<int> newIntList = intList.MyWhere(x => x > 4).ToList();
+            newIntList.ForEach(i => Console.Write($"{i}, "));
         }
     }
 }

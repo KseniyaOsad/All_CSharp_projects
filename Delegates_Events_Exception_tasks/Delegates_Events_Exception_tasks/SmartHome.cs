@@ -14,7 +14,7 @@ namespace Delegates_Events_Exception_tasks
 
         public event CallDeliveryService GetIceCream = (string adress) => {  };
 
-        private int temperature;
+        private int temperature = 20;
 
         public SmartHome(string adr, Phone phone)
         {

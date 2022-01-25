@@ -1,0 +1,13 @@
+C:\Users\theks\Desktop\C\All_CSharp_projects\Unsafe\Unsafe\bin\Debug\netcoreapp3.1\Unsafe.exe
+C:\Users\theks\Desktop\C\All_CSharp_projects\Unsafe\Unsafe\bin\Debug\netcoreapp3.1\Unsafe.deps.json
+C:\Users\theks\Desktop\C\All_CSharp_projects\Unsafe\Unsafe\bin\Debug\netcoreapp3.1\Unsafe.runtimeconfig.json
+C:\Users\theks\Desktop\C\All_CSharp_projects\Unsafe\Unsafe\bin\Debug\netcoreapp3.1\Unsafe.runtimeconfig.dev.json
+C:\Users\theks\Desktop\C\All_CSharp_projects\Unsafe\Unsafe\bin\Debug\netcoreapp3.1\Unsafe.dll
+C:\Users\theks\Desktop\C\All_CSharp_projects\Unsafe\Unsafe\bin\Debug\netcoreapp3.1\Unsafe.pdb
+C:\Users\theks\Desktop\C\All_CSharp_projects\Unsafe\Unsafe\obj\Debug\netcoreapp3.1\Unsafe.csprojAssemblyReference.cache
+C:\Users\theks\Desktop\C\All_CSharp_projects\Unsafe\Unsafe\obj\Debug\netcoreapp3.1\Unsafe.AssemblyInfoInputs.cache
+C:\Users\theks\Desktop\C\All_CSharp_projects\Unsafe\Unsafe\obj\Debug\netcoreapp3.1\Unsafe.AssemblyInfo.cs
+C:\Users\theks\Desktop\C\All_CSharp_projects\Unsafe\Unsafe\obj\Debug\netcoreapp3.1\Unsafe.csproj.CoreCompileInputs.cache
+C:\Users\theks\Desktop\C\All_CSharp_projects\Unsafe\Unsafe\obj\Debug\netcoreapp3.1\Unsafe.dll
+C:\Users\theks\Desktop\C\All_CSharp_projects\Unsafe\Unsafe\obj\Debug\netcoreapp3.1\Unsafe.pdb
+C:\Users\theks\Desktop\C\All_CSharp_projects\Unsafe\Unsafe\obj\Debug\netcoreapp3.1\Unsafe.genruntimeconfig.cache
